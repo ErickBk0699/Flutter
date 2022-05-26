@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/view/counter_screentwo.dart';
+import 'package:flutter_application_1/view/count_screentwo.dart';
 
 void main() {
   runApp(const MyApp());
